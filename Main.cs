@@ -15,7 +15,9 @@ namespace Triangle
         private int pictureBoxSize = 10;
         private int counter = 0;
         public int count = 0;
+        //Anzahl der Ebenen
         public int Stages = 2;
+        //Anzahl der Ebenen
         public int inherit;
         private Point[] points = new Point[3];
         public List<triangle> tris = new List<triangle>();

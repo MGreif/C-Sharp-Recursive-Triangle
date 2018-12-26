@@ -7,3 +7,6 @@ c:\users\mikmik\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debu
 c:\users\mikmik\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.exe
 c:\users\mikmik\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.pdb
 C:\Users\mikmik\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.Main.resources
+C:\Users\mikmik\Desktop\git\C-Sharp-Recursive-Triangle\bin\Debug\Triangle.exe.config
+C:\Users\mikmik\Desktop\git\C-Sharp-Recursive-Triangle\obj\Debug\Triangle.exe
+C:\Users\mikmik\Desktop\git\C-Sharp-Recursive-Triangle\obj\Debug\Triangle.pdb
