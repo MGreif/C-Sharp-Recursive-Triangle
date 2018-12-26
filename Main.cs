@@ -55,7 +55,6 @@ namespace Triangle
             drawLine(t.a, t.b, t.c);
             inherit = inheritances;
             main2();
-            
         }
 
         public void split(triangle t)
