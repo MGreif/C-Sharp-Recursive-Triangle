@@ -8,3 +8,5 @@ Ein kleines Programm welches anhand 3 gegebener Punkte ein Dreieck erstellt. Die
 Ich würde den Code noch ein bisschen verständlicher gestalten und den User-Input noch anzeigen lassen.
 
 ## Bilder
+![pic1](images/Bild1.PNG)
+![pic1](images/Bild2.PNG)
