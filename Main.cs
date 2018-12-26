@@ -56,7 +56,6 @@ namespace Triangle
             inherit = inheritances;
             main2();
         }
-
         public void split(triangle t)
         {
             triangle t1 = new triangle(midLine(t.a, t.b), midLine(t.a, t.c), midLine(t.c, t.b));
