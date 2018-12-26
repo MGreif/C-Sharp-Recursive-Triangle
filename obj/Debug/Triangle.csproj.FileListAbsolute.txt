@@ -1,0 +1,9 @@
+c:\users\mikmik\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.exe.config
+c:\users\mikmik\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.exe
+c:\users\mikmik\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.pdb
+c:\users\mikmik\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+c:\users\mikmik\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+c:\users\mikmik\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.Cache
+c:\users\mikmik\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.exe
+c:\users\mikmik\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.pdb
+C:\Users\mikmik\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.Main.resources
